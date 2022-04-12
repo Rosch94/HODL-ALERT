@@ -2,4 +2,6 @@
     <string name="app_name">HODL-ALERT</string>
     <string name="tab_alerts">Alerts</string>
     <string name="tab_coins">Coins</string>
+    <string name="tab_text_1">Test_Build_Rosch</string>
+    <string name="tab_text_2">Test_2_Rosch</string>
 </resources>
